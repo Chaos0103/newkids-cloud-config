@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:testdb
+    username: '{cipher}AQAD3jqPn9Bvb1nhJSLWmlLM5MOQDNyjnaXvbSOFfvqmomuN0MMuhyXyIqfxjShLnOFtwj3VL56OmRttYCTt2qXhK857hwxSthV3v4SbKsuI2YMFAIEVmeNBt6wFlfylcftu+f1MxA4EMcInLzwYPRX5DsSANfdfX1BuY++l1QGNf6UwMuEtiIbPqMJ8dmaQu3P+Ggt0VZfpobHicyZJUL9xxQ+7EtuyxRM9sB61Wp6J789Bw97TvSi8MFS2PEHjP18sDjcJjTO8GUO7zo3wZegP4Z/ZSSvM5qXpbg+dGdKHDRYpoiU8ow6prmdBPFUntTCqyvhDKpi+fnnVFS/wtIx/5Kzsa860cBOR1z++HpK9hcVP56i7aRETibbopgta8tg='
+    password: 
+
+token:
+  expiration_time: 864000000
+  secret: '{cipher}AQBw2LnziMlWS+/iHFJA8hrgA7SGf0xjjphIEWX1PHVO2J5dDS2jglNJw6o9FQGxq6AqlrCW4Ugd9dJMgZNgcQqy5bjj4GA2dHzB1bOdEiQBfrptY050/ziQ83HsgA0/jZcF30wrI1rGv0C0pmRbxwQ+FiKtwnnoPEu1ILlWfzFbIWlf1il3u5zQzGgK1V3YAtYQPlmAmxZIvMDX2HZUOjPP3EGuTMXrNA9hJSEzUbxQbjxpRw4wacceshkIfJy55uVpdJofDeMzG+3w9gef2Nd4JVfB6hta6LygjI1PtEOQn9GV2YUoTWSZ+UPT3L+CcQ8CctvC1XYrHBww7NHNvTm/B/SGiE1lSvHyVe5GpMLH4GATkNfoIMBdsd/prbtBT/rRylwkrmbgTW/G10gSlXbBWcGQhUZFD+wSkQ2t0iWN0dm27Uxj506ubAKz66BMeTE46hF6k2LfUfq2TPNHXaXf'
+
+gateway:
+  ip: 192.168.100.133
