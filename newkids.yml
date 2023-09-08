@@ -1,5 +1,6 @@
-token
+token:
   expiration_time: 864000000
   secret: '{cipher}AQB7p6BHeH8OPdQCdjVrvNXE2s+uf8MhBUqtNMblWpkc2+xfxGefdpee7ILiID/SO7cH8T6Aafbk/npcCtrHUcx6ei4JfX16pwdf0v45z1RCSqRKDVrND+sv3BsjfVqFNT7C8PxVILfY3iUvfuGFXYufCuSP7B00mp/lqrahwKGdJzZOrZFXAu+/b0hbehmEZkbzIhDzAXcstTzHV5QIH26eXQrp0NAHn7XBKWzKLFjT2+EvL7UMq4Ua0a/QBBLiVxnpGxrgIJxuKiMpwf7rEvbCSemG6tI7uNgmj1OWzXEPZCtAcDtnv88cqaH7uqtMZAjCwfYCLg3y6B14uQxqKjNQy1i/A9Kon8cC29+EQKAZFfkifAFRbGAMSEg7oAoDRepwYmNRF9m+63rlwk1fw5a4EnLpxY87kTZjEHwwlx6xaVYMVmR3Fupm/SPdVazvvnrkEHJMKZ2EZ2/BslkRAF2X'
+  
 gateway:
   ip: 192.168.100.133
