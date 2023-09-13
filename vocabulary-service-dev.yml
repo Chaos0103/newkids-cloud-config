@@ -6,4 +6,4 @@ spring:
     password: 
 
 gateway:
-  ip: 192.168.100.133
+  ip: 172.18.0.5

@@ -6,4 +6,4 @@ spring:
     password: '{cipher}AQAwzxcoLn4+RrO/jxeFtfrsh+9Nu6k/hcB47tfS98AcXWQZ6QL4cdnK/kbqSd9MPCC+45G9j8IROZUsDbIalpsJEQizz0KpnJMfhWkG4AUMfePVQsVRDROIfpduzd5YPnvk32YSL5NHskR7Hs02rdB+Pm3VNc5iIs12PM6mnzQSYsc3j21xHO5bA3GpMYcBQZ4L7crn/0kQLLXg+jTLfbiy5PYiUph53vPGEY8njXGsZw01au4yuuitxmXgSbXqjb+337CrcKZeFVweWu5y8cOwqvBHrhn0e1KvW025fag8QuSW8WSr77hUIns4LG/qln7M61CGma2VtxPg14TdVeQjJFMnaeQwmNpOSk1P1wCYGCeyowtwb1KcYWscVbdVidE='
 
 gateway:
-  ip: 192.168.100.133
+  ip: 172.18.0.5
