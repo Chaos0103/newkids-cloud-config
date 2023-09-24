@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:testdb
+    username: '{cipher}AQAD3jqPn9Bvb1nhJSLWmlLM5MOQDNyjnaXvbSOFfvqmomuN0MMuhyXyIqfxjShLnOFtwj3VL56OmRttYCTt2qXhK857hwxSthV3v4SbKsuI2YMFAIEVmeNBt6wFlfylcftu+f1MxA4EMcInLzwYPRX5DsSANfdfX1BuY++l1QGNf6UwMuEtiIbPqMJ8dmaQu3P+Ggt0VZfpobHicyZJUL9xxQ+7EtuyxRM9sB61Wp6J789Bw97TvSi8MFS2PEHjP18sDjcJjTO8GUO7zo3wZegP4Z/ZSSvM5qXpbg+dGdKHDRYpoiU8ow6prmdBPFUntTCqyvhDKpi+fnnVFS/wtIx/5Kzsa860cBOR1z++HpK9hcVP56i7aRETibbopgta8tg='
+    password: 
+
+gateway:
+  ip: 172.18.0.5
