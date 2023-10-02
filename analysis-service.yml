@@ -1,1 +1,4 @@
-
+spring:
+  data:
+    mongodb:
+      uri: '{cypher}AQBcaR9te1ch+nApsPD6/y1P+MqG1r9yBOmZBkxkwsOgcuoBLhr2KXqt3NWFNN4BJQ9QuV2yNmteFYpUGI8eJ4N+6V1nVcn7mPZkA09kUBGoEG1FGc1FXz4P4YK5TE3RDM0Y+Gb3eRxIgmQzAG4PiVcytBkNf862VYSdGTdU1ryIEazEps4QO4ls9LudySxn35BnTklCCXnGWGgZ71dgeHHKxhEKRf/Tk2diMLtc/ahA4P/07KNFcOKhmjNf8dkDXI/7OhUJgTovWWQInKnrv6OBrgPpUg8zZ4iyu8kdD8EwtNzrzXTqpvrW/x0jehqGdoSfiRfxUuR6LseY0aw1oQqXZ+PG8drWmRe3oUau5ZA7xNFd3b0Xy11LQSN0ChnGr1ea0RSpW2DHf+1dCjB/9rHqXPtWgeGeJvcmm6x1JrVIJw=='
