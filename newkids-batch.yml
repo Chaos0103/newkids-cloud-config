@@ -7,5 +7,7 @@ spring:
   jpa:
     database: mysql
     database-platform: org.hibernate.dialect.MySQL8Dialect
-
+  data:
+    mongodb:
+      uri: '{cipher}AQAyW8nP1rqce7Ky/IoQX+UVdjkPpJUFoI0P+myzzhc5qwtY29PxIOJ2YAV9tR5VkCXkt3XVrBmalyj2Ec7LJKhr+yRLwrh5dkydBAftakmUyRdcT0veuFSsZe4vQ2oEBOD7IzNxGvTpFuPVDVuUiN0elYseq95NUVRDMi3g7KrWBJJonVbCoIaIm69919EMsAvPQEygGxQzBrWV7T0PZIMaokomwWucwUi62qLlm9uZWeJUIJ/7CTIe6F70P8kBlw+A/jguQYg9a88cZMPWf8pdIM/TvNYO/KngiVdKr2mXqom8Nhm+9VZqZOe8Py9Wei2FMSpHAKukTUYclW3HnV8j4PcyclEPp54dY95a1jNEQXBHfCf1I4U45+FARyAFe/qw4XxIbs0vA56tFK58QKa4rhry7lvKZ+3MHmRnb9Ntr4Zi+UkAtzkyt2iE0laP8elm+yVB+XPN/gq4kW1nHRGiaEd3ZmgzXurj6eJlBe1DWA=='
     
